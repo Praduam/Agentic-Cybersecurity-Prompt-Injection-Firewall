@@ -1,19 +1,39 @@
 # 🛡️ AegisPrompt AI Firewall: Agentic Cybersecurity – Prompt Injection Defense Engine
 
-[![Vite](https://img.shields.io/badge/Vite-6.x-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
-[![React](https://img.shields.io/badge/React-19.x-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.x-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![OCR Engine](https://img.shields.io/badge/Tesseract.js-Real_OCR-10B981?logo=google&logoColor=white)](https://tesseract.projectnaptha.com/)
-[![Hackathon Position](https://img.shields.io/badge/Hackathon_Grid_Claim-D3--F3_(100%25_Coverage)-8B5CF6)](https://github.com/)
+[![Vercel Live Demo](https://img.shields.io/badge/Vercel-Live_Production_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://inject-firewall.vercel.app/)
+[![Vite](https://img.shields.io/badge/Vite-6.x-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![React](https://img.shields.io/badge/React-19.x-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.x-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![OCR Engine](https://img.shields.io/badge/Tesseract.js-Real_OCR-10B981?style=for-the-badge&logo=google&logoColor=white)](https://tesseract.projectnaptha.com/)
 
+> 🔗 **Live Vercel Deployment**: [https://inject-firewall.vercel.app/](https://inject-firewall.vercel.app/)
+>
 > **AegisPrompt** is an enterprise-grade inline security gateway designed for autonomous AI agents, copilots, and LLM applications. It intercepts incoming multimodal data streams before they reach the AI model, detecting and neutralizing malicious direct & indirect prompt injection attacks with sub-5ms latency while preserving clean user context.
 
 ---
 
-## 🌟 Demo Screenshots & Visual Showcase
+## 🌟 Live Demo Screenshots & Visual Showcase
 
-### 📷 Real OCR Payload Image Scanning
+### 1. 🛡️ Main Interceptor & Live Gateway Workbench
+![01 Interceptor Workbench](./screenshots/01_interceptor_workbench.png)
+
+### 2. 🤖 Interactive AI Agent Sandbox (Firewall Protection Demo)
+![02 Agent Sandbox](./screenshots/02_agent_sandbox.png)
+
+### 3. 📊 3x3 Hackathon Matrix Evaluation Hub (D3 - F3)
+![03 Evaluation Grid Matrix](./screenshots/03_evaluation_grid_matrix.png)
+
+### 4. ⚡ 1-Click Automated Benchmark Test Suite
+![04 Automated Benchmark](./screenshots/04_automated_benchmark.png)
+
+### 5. ⚙️ Security Rules & Custom Regex Signature Builder
+![05 Rules Config Engine](./screenshots/05_rules_config_engine.png)
+
+### 6. 📝 Real-Time Audit Trail & CSV Export
+![06 Audit Logs Export](./screenshots/06_audit_logs_export.png)
+
+### 📷 Real Client-Side OCR Payload Scanning
 ![OCR Payload Test Image](./sample_ocr_payload.jpg)
 
 ### 📊 3x3 Hackathon Matrix Target Claim: D3 - F3
